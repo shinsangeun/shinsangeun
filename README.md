@@ -1,14 +1,11 @@
 ### Shinsangeun - @Sangeun Shin
 ---
 
-👩🏻‍💻 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinsangeun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+👩🏻‍💻 Hi, I'm a software developer who likes nodes.js and Python. I like learning new things and I always challenge myself.✨
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shinsangeun.github.io/)](https://shinsangeun.github.io/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinsangeun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shinsangeun.github.io/)](https://shinsangeun.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinsangeun)](https://github.com/shinsangeun/github-readme-stats)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinsangeun)](https://github.com/shinsangeun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinsangeun)](https://github.com/shinsangeun/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinsangeun)](https://github.com/shinsangeun/github-readme-stats)
  
 <!--
 **shinsangeun/shinsangeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
