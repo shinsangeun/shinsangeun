@@ -7,7 +7,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shinsangeun.github.io/)](https://shinsangeun.github.io/)
 
 
-👩🏻‍💻 Hi, I'm a software developer who likes **Nodes.js** and **Python**. I like learning new things and I always challenge myself.✨
+👩🏻‍💻 Hi, I'm a frontend developer who likes **React.js**, **Node.js** and **Python**. I love learning new things and I always challenge myself.✨
 
 
  ✅  Tech Stack  
