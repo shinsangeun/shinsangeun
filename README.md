@@ -1,6 +1,5 @@
 ### Shinsangeun - @Sangeun Shin
 ---
-![header](https://capsule-render.vercel.app/api?text=✨기록하며%20성장하기✨&fontSize=30&fontColor=F3E2A9&rotate=-0&animation=twinkling&color=364765)
 
 [![visitors](https://komarev.com/ghpvc/?username=shinsangeun&color=79C83D&style=flat&label=visitors)](https://github.com/shinsangeun)
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shinsangeun.github.io/)](https://shinsangeun.github.io/)
